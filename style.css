@@ -1,1 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    background: #282828;
+}
 
+.header__list {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 95px;
+    margin-left: 118px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+.menu__link {
+    color: white;
+}
+
+
+.header__wrap {
+    display: flex;
+}
